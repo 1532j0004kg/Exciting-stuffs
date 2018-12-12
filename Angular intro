@@ -1,0 +1,6 @@
+Angular 2 was upgrade version of Angular.js
+Angular 2 and higher versions using the Typescript
+
+So what is Typescript in angularjs?
+ Typescript is nothing but, It is as like as the use of libraries in js. But with ts extension.
+ Typescript compiles to plain js and js will compiles using chromev8
